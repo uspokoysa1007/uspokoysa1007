@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-  # 🌸 uspokoysa1007
+  # 🌸 uspokoysa1007 🌸
   
-  <p><i>im chocola irl 🌸</i></p>
+  <p><i>🌸 im chocola irl 🌸</i></p>
 
   <p>
     <a href="https://t.me/gromkayaq" target="_blank">
