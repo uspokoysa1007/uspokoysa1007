@@ -12,7 +12,7 @@
 
   ---
 
-  ### 🛠️ Languages & Technologies
+  ### Languages
 
   <p>
     <a href="https://skillicons.dev">
@@ -20,7 +20,7 @@
     </a>
   </p>
 
-  ### 🧰 Tools & Environment
+  ### Tools & Environment
 
   <p>
     <a href="https://skillicons.dev">
@@ -30,7 +30,7 @@
 
   ---
 
-  ### 📊 GitHub Stats
+  ### GitHub Stats
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=uspokoysa1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
