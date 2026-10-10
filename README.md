@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 👋 Hey, I'm anya (`uspokoysa1007`)
+  # 🌸 uspokoysa1007
   
   <p><i>im chocola irl 🌸</i></p>
 
