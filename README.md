@@ -33,7 +33,7 @@
   ### GitHub Stats
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=uspokoysa1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=uspokoysa1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=prs,issues,contribs&cache_seconds=1800" alt="GitHub Stats" />
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uspokoysa1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
