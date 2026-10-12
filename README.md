@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   # 🌸 uspokoysa1007 🌸
   
@@ -33,10 +33,10 @@
   ### GitHub Stats
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=uspokoysa1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=prs,issues,contribs&hide_rank=true&cache_seconds=1800" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=uspokoysa1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=prs,issues,contribs&include_all_commits=true" alt="GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uspokoysa1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uspokoysa1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </p>
 
 </div>
