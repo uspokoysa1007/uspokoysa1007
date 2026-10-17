@@ -16,7 +16,7 @@
 
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,cpp,c,py,go,cs,java,wasm,js,ts,bash,powershell" alt="Programming Languages" />
+      <img src="https://skillicons.dev/icons?i=rust,cpp,c,py,go,cs,lua,java,wasm,js,ts,bash,powershell" alt="Programming Languages" />
     </a>
   </p>
 
@@ -36,7 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=uspokoysa1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=prs,issues,contribs&include_all_commits=true" alt="GitHub Stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uspokoysa1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uspokoysa1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
   </p>
 
 </div>
