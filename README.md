@@ -33,10 +33,11 @@
   ### GitHub Stats
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=uspokoysa1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=prs,issues,contribs&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uspokoysa1007&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uspokoysa1007&theme=tokyonight" alt="Top Languages" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uspokoysa1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uspokoysa1007&theme=tokyonight" alt="Profile Details" />
   </p>
 
 </div>
